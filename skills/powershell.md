@@ -44,6 +44,24 @@ Get-ChildItem
 
 ---
 
+## Useful Commands
+
+| Command | Description |
+|---------|-------------|
+| `pwd` | Show the current working directory |
+| `dir` | List files and directories |
+| `dir -Force` | Show hidden files and folders |
+| `dir *.md` | List all Markdown files |
+| `dir -File` | Show only files |
+| `dir -Directory` | Show only directories |
+| `dir -Recurse` | List files recursively |
+| `cd` | Change directory |
+| `mkdir` | Create a new directory |
+| `New-Item` | Create a new file or directory |
+| `Remove-Item` | Delete files or directories |
+
+---
+
 ## Projects
 
 - Python Crash Course
