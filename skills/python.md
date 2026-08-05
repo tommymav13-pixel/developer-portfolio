@@ -1,8 +1,13 @@
 # Python
 
-## Current level
+## Status
 
-Beginner
+| Item | Value |
+|------|-------|
+| Level | Beginner |
+| Started | August 2026 |
+| Last Updated | August 2026 |
+| Actively Learning | Yes |
 
 ## Currently studying
 
