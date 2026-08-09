@@ -17,12 +17,9 @@ This is an acquisition list, not a reading order.
 
 ### High Priority
 
-| Book | Author(s) | Topic | Owned |
-| --- | --- | --- | --- |
-| Effective Python | Brett Slatkin | Python | No |
-| The Pragmatic Programmer | Andrew Hunt, David Thomas | Software Engineering | No |
-| The DevOps Handbook | Gene Kim et al. | DevOps | No |
-| Mathematics for Machine Learning | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Mathematics / Machine Learning | No |
+| Book                             | Author(s)                                             | Topic                          |
+| -------------------------------- | ----------------------------------------------------- | ------------------------------ |
+| Mathematics for Machine Learning | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Mathematics / Machine Learning |
 
 ### Medium Priority
 
@@ -41,16 +38,19 @@ This is an acquisition list, not a reading order.
 These books are relevant to the learning plan but are already present
 in my library.
 
-| Book | Author(s) | Topic |
-| --- | --- | --- |
-| Python Crash Course | Eric Matthes | Python |
-| Automate the Boring Stuff with Python | Al Sweigart | Python |
-| Fluent Python | Luciano Ramalho | Python |
-| Grokking Algorithms | Aditya Bhargava | Algorithms |
-| Clean Code | Robert C. Martin | Software Engineering |
-| Designing Data-Intensive Applications | Martin Kleppmann | Software Engineering / Data Systems |
-| The Self-Taught Programmer | Cory Althoff | Programming |
-| R for Data Science | Hadley Wickham, Garrett Grolemund | Data Science / R |
+| Book                                  | Author(s)                         | Topic                               |
+| ------------------------------------- | --------------------------------- | ----------------------------------- |
+| Python Crash Course                   | Eric Matthes                      | Python                              |
+| Automate the Boring Stuff with Python | Al Sweigart                       | Python                              |
+| Fluent Python                         | Luciano Ramalho                   | Python                              |
+| Effective Python                      | Brett Slatkin                     | Python                              |
+| Grokking Algorithms                   | Aditya Bhargava                   | Algorithms                          |
+| Clean Code                            | Robert C. Martin                  | Software Engineering                |
+| The Pragmatic Programmer              | Andrew Hunt, David Thomas         | Software Engineering                |
+| Designing Data-Intensive Applications | Martin Kleppmann                  | Software Engineering / Data Systems |
+| The DevOps Handbook                   | Gene Kim et al.                   | DevOps                              |
+| The Self-Taught Programmer            | Cory Althoff                      | Programming                         |
+| R for Data Science                    | Hadley Wickham, Garrett Grolemund | Data Science / R                    |
 
 ---
 
@@ -105,15 +105,12 @@ Before acquiring a book:
 
 Suggested order:
 
-1. Effective Python
-2. The Pragmatic Programmer
-3. The DevOps Handbook
-4. Mathematics for Machine Learning
-5. How Linux Works
-6. Computer Systems: A Programmer's Perspective
-7. Code Complete
-8. Introduction to Algorithms
-9. The Phoenix Project
+1. Mathematics for Machine Learning
+2. How Linux Works
+3. Computer Systems: A Programmer's Perspective
+4. Code Complete
+5. Introduction to Algorithms
+6. The Phoenix Project
 
 The order may change as the learning roadmap develops.
 
