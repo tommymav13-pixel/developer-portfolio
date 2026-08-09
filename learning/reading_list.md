@@ -7,7 +7,366 @@ software development.
 Books are prioritized by learning value rather than collected as a list of
 resources.
 
-## Status
+PS C:\Users\tommy\Documents\programming\developer-portfolio> dir -recurse
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          5-8-2026     15:51                about
+d-----          5-8-2026     15:30                cv
+d-----          5-8-2026     15:25                images
+d-----          8-8-2026     05:06                learning
+d-----          5-8-2026     16:37                projects
+d-----          5-8-2026     15:52                skills
+-a----          5-8-2026     15:26            504 README.md
+-a----          5-8-2026     15:29            803 timeline.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\about
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     15:40            775 ABOUT.md
+-a----          5-8-2026     15:51           1459 philosophy.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\cv
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     15:37           2816 CV.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\learning
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          9-8-2026     16:04           4930 books_to_acquire.md
+-a----          5-8-2026     16:21            377 certifications.md
+-a----          9-8-2026     16:07           8854 reading_list.md
+-a----          5-8-2026     16:20           1582 roadmap.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\projects
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     16:37              0 developer_handbook.md
+-a----          5-8-2026     16:37              0 developer_portfolio.md
+-a----          5-8-2026     16:37            553 python_crash_course.md
+-a----          5-8-2026     16:32            834 README.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\skills
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     15:57           1769 git.md
+-a----          5-8-2026     15:57           1695 github.md
+-a----          5-8-2026     15:56            527 linux.md
+-a----          8-8-2026     04:44           6796 powershell.md
+-a----          5-8-2026     16:08            375 python.md
+-a----          5-8-2026     15:52            215 README.md
+-a----          5-8-2026     15:41            805 soft_skills.md
+
+
+PS C:\Users\tommy\Documents\programming\developer-portfolio>
+PS C:\Users\tommy\Documents\programming\developer-portfolio> dir -recurse
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          5-8-2026     15:51                about
+d-----          5-8-2026     15:30                cv
+d-----          5-8-2026     15:25                images
+d-----          8-8-2026     05:06                learning
+d-----          5-8-2026     16:37                projects
+d-----          5-8-2026     15:52                skills
+-a----          5-8-2026     15:26            504 README.md
+-a----          5-8-2026     15:29            803 timeline.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\about
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     15:40            775 ABOUT.md
+-a----          5-8-2026     15:51           1459 philosophy.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\cv
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     15:37           2816 CV.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\learning
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          9-8-2026     16:04           4930 books_to_acquire.md
+-a----          5-8-2026     16:21            377 certifications.md
+-a----          9-8-2026     16:07           8854 reading_list.md
+-a----          5-8-2026     16:20           1582 roadmap.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\projects
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     16:37              0 developer_handbook.md
+-a----          5-8-2026     16:37              0 developer_portfolio.md
+-a----          5-8-2026     16:37            553 python_crash_course.md
+-a----          5-8-2026     16:32            834 README.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\skills
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     15:57           1769 git.md
+-a----          5-8-2026     15:57           1695 github.md
+-a----          5-8-2026     15:56            527 linux.md
+-a----          8-8-2026     04:44           6796 powershell.md
+-a----          5-8-2026     16:08            375 python.md
+-a----          5-8-2026     15:52            215 README.md
+-a----          5-8-2026     15:41            805 soft_skills.md
+
+
+PS C:\Users\tommy\Documents\programming\developer-portfolio>
+PS C:\Users\tommy\Documents\programming\developer-portfolio> dir -recurse
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          5-8-2026     15:51                about
+d-----          5-8-2026     15:30                cv
+d-----          5-8-2026     15:25                images
+d-----          8-8-2026     05:06                learning
+d-----          5-8-2026     16:37                projects
+d-----          5-8-2026     15:52                skills
+-a----          5-8-2026     15:26            504 README.md
+-a----          5-8-2026     15:29            803 timeline.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\about
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     15:40            775 ABOUT.md
+-a----          5-8-2026     15:51           1459 philosophy.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\cv
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     15:37           2816 CV.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\learning
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          9-8-2026     16:04           4930 books_to_acquire.md
+-a----          5-8-2026     16:21            377 certifications.md
+-a----          9-8-2026     16:07           8854 reading_list.md
+-a----          5-8-2026     16:20           1582 roadmap.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\projects
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     16:37              0 developer_handbook.md
+-a----          5-8-2026     16:37              0 developer_portfolio.md
+-a----          5-8-2026     16:37            553 python_crash_course.md
+-a----          5-8-2026     16:32            834 README.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\skills
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     15:57           1769 git.md
+-a----          5-8-2026     15:57           1695 github.md
+-a----          5-8-2026     15:56            527 linux.md
+-a----          8-8-2026     04:44           6796 powershell.md
+-a----          5-8-2026     16:08            375 python.md
+-a----          5-8-2026     15:52            215 README.md
+-a----          5-8-2026     15:41            805 soft_skills.md
+
+
+PS C:\Users\tommy\Documents\programming\developer-portfolio>
+PS C:\Users\tommy\Documents\programming\developer-portfolio> dir -recurse
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          5-8-2026     15:51                about
+d-----          5-8-2026     15:30                cv
+d-----          5-8-2026     15:25                images
+d-----          8-8-2026     05:06                learning
+d-----          5-8-2026     16:37                projects
+d-----          5-8-2026     15:52                skills
+-a----          5-8-2026     15:26            504 README.md
+-a----          5-8-2026     15:29            803 timeline.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\about
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     15:40            775 ABOUT.md
+-a----          5-8-2026     15:51           1459 philosophy.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\cv
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     15:37           2816 CV.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\learning
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          9-8-2026     16:04           4930 books_to_acquire.md
+-a----          5-8-2026     16:21            377 certifications.md
+-a----          9-8-2026     16:07           8854 reading_list.md
+-a----          5-8-2026     16:20           1582 roadmap.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\projects
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     16:37              0 developer_handbook.md
+-a----          5-8-2026     16:37              0 developer_portfolio.md
+-a----          5-8-2026     16:37            553 python_crash_course.md
+-a----          5-8-2026     16:32            834 README.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\skills
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     15:57           1769 git.md
+-a----          5-8-2026     15:57           1695 github.md
+-a----          5-8-2026     15:56            527 linux.md
+-a----          8-8-2026     04:44           6796 powershell.md
+-a----          5-8-2026     16:08            375 python.md
+-a----          5-8-2026     15:52            215 README.md
+-a----          5-8-2026     15:41            805 soft_skills.md
+
+
+PS C:\Users\tommy\Documents\programming\developer-portfolio>
+PS C:\Users\tommy\Documents\programming\developer-portfolio> dir -recurse
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          5-8-2026     15:51                about
+d-----          5-8-2026     15:30                cv
+d-----          5-8-2026     15:25                images
+d-----          8-8-2026     05:06                learning
+d-----          5-8-2026     16:37                projects
+d-----          5-8-2026     15:52                skills
+-a----          5-8-2026     15:26            504 README.md
+-a----          5-8-2026     15:29            803 timeline.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\about
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     15:40            775 ABOUT.md
+-a----          5-8-2026     15:51           1459 philosophy.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\cv
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     15:37           2816 CV.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\learning
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          9-8-2026     16:04           4930 books_to_acquire.md
+-a----          5-8-2026     16:21            377 certifications.md
+-a----          9-8-2026     16:07           8854 reading_list.md
+-a----          5-8-2026     16:20           1582 roadmap.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\projects
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     16:37              0 developer_handbook.md
+-a----          5-8-2026     16:37              0 developer_portfolio.md
+-a----          5-8-2026     16:37            553 python_crash_course.md
+-a----          5-8-2026     16:32            834 README.md
+
+
+    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\skills
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          5-8-2026     15:57           1769 git.md
+-a----          5-8-2026     15:57           1695 github.md
+-a----          5-8-2026     15:56            527 linux.md
+-a----          8-8-2026     04:44           6796 powershell.md
+-a----          5-8-2026     16:08            375 python.md
+-a----          5-8-2026     15:52            215 README.md
+-a----          5-8-2026     15:41            805 soft_skills.md
+
+
+PS C:\Users\tommy\Documents\programming\developer-portfolio>
 
 | Status | Meaning |
 |---|---|
