@@ -1,38 +1,52 @@
 # Certifications
 
-This page tracks professional certifications that support my development as a
-software engineer.
+This page tracks professional certifications that may support my
+development in software engineering, DevOps, cloud technologies, and
+quantitative development.
+
+Certifications are considered supplementary to practical skills,
+projects, and professional experience.
 
 ---
 
-# Planned
-
-## Python
-
-- TBD
-
-## Cloud
-
-- Microsoft Azure Fundamentals (AZ-900)
-- AWS Cloud Practitioner
-
-## Linux
-
-- Linux Essentials
-
-## DevOps
-
-- Docker
-- Kubernetes
-
----
-
-# In Progress
+## Currently Pursuing
 
 None.
 
 ---
 
-# Completed
+## Under Consideration
+
+### Cloud
+
+- Microsoft Azure Fundamentals (AZ-900)
+- AWS Certified Cloud Practitioner
+
+### Python
+
+- Certification path to be determined
+
+### Linux
+
+- Linux Essentials
+
+---
+
+## Future Areas
+
+Certification options may be explored later in areas such as:
+
+- cloud infrastructure;
+- Linux;
+- containerization;
+- DevOps;
+- software development.
+
+Specific certifications will only be added to the learning plan when
+they become relevant to the current development phase.
+
+---
+
+## Completed
 
 None.
