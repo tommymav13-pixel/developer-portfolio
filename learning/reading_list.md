@@ -7,377 +7,20 @@ software development.
 Books are prioritized by learning value rather than collected as a list of
 resources.
 
-PS C:\Users\tommy\Documents\programming\developer-portfolio> dir -recurse
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
-d-----          5-8-2026     15:51                about
-d-----          5-8-2026     15:30                cv
-d-----          5-8-2026     15:25                images
-d-----          8-8-2026     05:06                learning
-d-----          5-8-2026     16:37                projects
-d-----          5-8-2026     15:52                skills
--a----          5-8-2026     15:26            504 README.md
--a----          5-8-2026     15:29            803 timeline.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\about
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     15:40            775 ABOUT.md
--a----          5-8-2026     15:51           1459 philosophy.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\cv
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     15:37           2816 CV.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\learning
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          9-8-2026     16:04           4930 books_to_acquire.md
--a----          5-8-2026     16:21            377 certifications.md
--a----          9-8-2026     16:07           8854 reading_list.md
--a----          5-8-2026     16:20           1582 roadmap.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\projects
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     16:37              0 developer_handbook.md
--a----          5-8-2026     16:37              0 developer_portfolio.md
--a----          5-8-2026     16:37            553 python_crash_course.md
--a----          5-8-2026     16:32            834 README.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\skills
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     15:57           1769 git.md
--a----          5-8-2026     15:57           1695 github.md
--a----          5-8-2026     15:56            527 linux.md
--a----          8-8-2026     04:44           6796 powershell.md
--a----          5-8-2026     16:08            375 python.md
--a----          5-8-2026     15:52            215 README.md
--a----          5-8-2026     15:41            805 soft_skills.md
-
-
-PS C:\Users\tommy\Documents\programming\developer-portfolio>
-PS C:\Users\tommy\Documents\programming\developer-portfolio> dir -recurse
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
-d-----          5-8-2026     15:51                about
-d-----          5-8-2026     15:30                cv
-d-----          5-8-2026     15:25                images
-d-----          8-8-2026     05:06                learning
-d-----          5-8-2026     16:37                projects
-d-----          5-8-2026     15:52                skills
--a----          5-8-2026     15:26            504 README.md
--a----          5-8-2026     15:29            803 timeline.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\about
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     15:40            775 ABOUT.md
--a----          5-8-2026     15:51           1459 philosophy.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\cv
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     15:37           2816 CV.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\learning
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          9-8-2026     16:04           4930 books_to_acquire.md
--a----          5-8-2026     16:21            377 certifications.md
--a----          9-8-2026     16:07           8854 reading_list.md
--a----          5-8-2026     16:20           1582 roadmap.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\projects
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     16:37              0 developer_handbook.md
--a----          5-8-2026     16:37              0 developer_portfolio.md
--a----          5-8-2026     16:37            553 python_crash_course.md
--a----          5-8-2026     16:32            834 README.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\skills
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     15:57           1769 git.md
--a----          5-8-2026     15:57           1695 github.md
--a----          5-8-2026     15:56            527 linux.md
--a----          8-8-2026     04:44           6796 powershell.md
--a----          5-8-2026     16:08            375 python.md
--a----          5-8-2026     15:52            215 README.md
--a----          5-8-2026     15:41            805 soft_skills.md
-
-
-PS C:\Users\tommy\Documents\programming\developer-portfolio>
-PS C:\Users\tommy\Documents\programming\developer-portfolio> dir -recurse
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
-d-----          5-8-2026     15:51                about
-d-----          5-8-2026     15:30                cv
-d-----          5-8-2026     15:25                images
-d-----          8-8-2026     05:06                learning
-d-----          5-8-2026     16:37                projects
-d-----          5-8-2026     15:52                skills
--a----          5-8-2026     15:26            504 README.md
--a----          5-8-2026     15:29            803 timeline.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\about
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     15:40            775 ABOUT.md
--a----          5-8-2026     15:51           1459 philosophy.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\cv
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     15:37           2816 CV.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\learning
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          9-8-2026     16:04           4930 books_to_acquire.md
--a----          5-8-2026     16:21            377 certifications.md
--a----          9-8-2026     16:07           8854 reading_list.md
--a----          5-8-2026     16:20           1582 roadmap.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\projects
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     16:37              0 developer_handbook.md
--a----          5-8-2026     16:37              0 developer_portfolio.md
--a----          5-8-2026     16:37            553 python_crash_course.md
--a----          5-8-2026     16:32            834 README.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\skills
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     15:57           1769 git.md
--a----          5-8-2026     15:57           1695 github.md
--a----          5-8-2026     15:56            527 linux.md
--a----          8-8-2026     04:44           6796 powershell.md
--a----          5-8-2026     16:08            375 python.md
--a----          5-8-2026     15:52            215 README.md
--a----          5-8-2026     15:41            805 soft_skills.md
-
-
-PS C:\Users\tommy\Documents\programming\developer-portfolio>
-PS C:\Users\tommy\Documents\programming\developer-portfolio> dir -recurse
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
-d-----          5-8-2026     15:51                about
-d-----          5-8-2026     15:30                cv
-d-----          5-8-2026     15:25                images
-d-----          8-8-2026     05:06                learning
-d-----          5-8-2026     16:37                projects
-d-----          5-8-2026     15:52                skills
--a----          5-8-2026     15:26            504 README.md
--a----          5-8-2026     15:29            803 timeline.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\about
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     15:40            775 ABOUT.md
--a----          5-8-2026     15:51           1459 philosophy.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\cv
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     15:37           2816 CV.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\learning
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          9-8-2026     16:04           4930 books_to_acquire.md
--a----          5-8-2026     16:21            377 certifications.md
--a----          9-8-2026     16:07           8854 reading_list.md
--a----          5-8-2026     16:20           1582 roadmap.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\projects
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     16:37              0 developer_handbook.md
--a----          5-8-2026     16:37              0 developer_portfolio.md
--a----          5-8-2026     16:37            553 python_crash_course.md
--a----          5-8-2026     16:32            834 README.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\skills
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     15:57           1769 git.md
--a----          5-8-2026     15:57           1695 github.md
--a----          5-8-2026     15:56            527 linux.md
--a----          8-8-2026     04:44           6796 powershell.md
--a----          5-8-2026     16:08            375 python.md
--a----          5-8-2026     15:52            215 README.md
--a----          5-8-2026     15:41            805 soft_skills.md
-
-
-PS C:\Users\tommy\Documents\programming\developer-portfolio>
-PS C:\Users\tommy\Documents\programming\developer-portfolio> dir -recurse
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
-d-----          5-8-2026     15:51                about
-d-----          5-8-2026     15:30                cv
-d-----          5-8-2026     15:25                images
-d-----          8-8-2026     05:06                learning
-d-----          5-8-2026     16:37                projects
-d-----          5-8-2026     15:52                skills
--a----          5-8-2026     15:26            504 README.md
--a----          5-8-2026     15:29            803 timeline.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\about
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     15:40            775 ABOUT.md
--a----          5-8-2026     15:51           1459 philosophy.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\cv
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     15:37           2816 CV.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\learning
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          9-8-2026     16:04           4930 books_to_acquire.md
--a----          5-8-2026     16:21            377 certifications.md
--a----          9-8-2026     16:07           8854 reading_list.md
--a----          5-8-2026     16:20           1582 roadmap.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\projects
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     16:37              0 developer_handbook.md
--a----          5-8-2026     16:37              0 developer_portfolio.md
--a----          5-8-2026     16:37            553 python_crash_course.md
--a----          5-8-2026     16:32            834 README.md
-
-
-    Directory: C:\Users\tommy\Documents\programming\developer-portfolio\skills
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----          5-8-2026     15:57           1769 git.md
--a----          5-8-2026     15:57           1695 github.md
--a----          5-8-2026     15:56            527 linux.md
--a----          8-8-2026     04:44           6796 powershell.md
--a----          5-8-2026     16:08            375 python.md
--a----          5-8-2026     15:52            215 README.md
--a----          5-8-2026     15:41            805 soft_skills.md
-
-
-PS C:\Users\tommy\Documents\programming\developer-portfolio>
-
-| Status | Meaning |
-|---|---|
-| `reading` | Currently reading or actively studying |
-| `next` | High-priority next book |
-| `planned` | Intended for a later learning phase |
-| `reference` | Used primarily as a reference work |
-| `completed` | Completed |
-
 Reading status is independent from ownership status.
 A book may be owned while still marked as `planned` or `reference`.
+
+---
+
+## Status
+
+| Status      | Meaning                                |
+| ----------- | -------------------------------------- |
+| `reading`   | Currently reading or actively studying |
+| `next`      | High-priority next book                |
+| `planned`   | Intended for a later learning phase    |
+| `reference` | Used primarily as a reference work     |
+| `completed` | Completed                              |
 
 ---
 
@@ -388,10 +31,10 @@ A book may be owned while still marked as `planned` or `reference`.
 Goal: develop a solid foundation in Python syntax, control flow, data
 structures, functions, classes, files, testing, and basic projects.
 
-| Book | Status | Purpose |
-|---|---|---|
-| Eric Matthes — *Python Crash Course, 3rd Edition* | `reading` | Core Python fundamentals |
-| Al Sweigart — *Automate the Boring Stuff with Python, 3rd Edition* | `next` | Practical Python automation |
+| Book                                                               | Status    | Purpose                     |
+| ------------------------------------------------------------------ | --------- | --------------------------- |
+| Eric Matthes — *Python Crash Course, 3rd Edition*                  | `reading` | Core Python fundamentals    |
+| Al Sweigart — *Automate the Boring Stuff with Python, 3rd Edition* | `next`    | Practical Python automation |
 
 Primary focus:
 
@@ -413,10 +56,10 @@ Python syntax
 Goal: improve computational thinking and learn fundamental algorithms and data
 structures.
 
-| Book | Status | Purpose |
-|---|---|---|
-| Aditya Bhargava — *Grokking Algorithms, 2nd Edition* | `next` | Accessible introduction to algorithms |
-| Cormen et al. — *Introduction to Algorithms* | `planned` | Deeper algorithmic study |
+| Book                                                 | Status    | Purpose                               |
+| ---------------------------------------------------- | --------- | ------------------------------------- |
+| Aditya Bhargava — *Grokking Algorithms, 2nd Edition* | `next`    | Accessible introduction to algorithms |
+| Cormen et al. — *Introduction to Algorithms*         | `planned` | Deeper algorithmic study              |
 
 Topics:
 
@@ -438,10 +81,10 @@ complexity
 Goal: move from writing working Python code toward writing idiomatic,
 maintainable, and robust Python software.
 
-| Book | Status | Purpose |
-|---|---|---|
+| Book                                           | Status    | Purpose                       |
+| ---------------------------------------------- | --------- | ----------------------------- |
+| Brett Slatkin — *Effective Python*             | `planned` | Python best practices         |
 | Luciano Ramalho — *Fluent Python, 2nd Edition* | `planned` | Advanced and idiomatic Python |
-| Brett Slatkin — *Effective Python* | `planned` | Python best practices |
 
 Topics:
 
@@ -454,6 +97,32 @@ Python data model
 → concurrency
 → idiomatic Python
 ```
+
+---
+
+### Java Foundations
+
+Goal: develop foundational experience with a statically typed,
+object-oriented programming language and support potential Java-based
+projects.
+
+| Book                                                  | Status | Purpose                |
+| ----------------------------------------------------- | ------ | ---------------------- |
+| Sierra, Bates & Gee — *Head First Java, 3rd Edition* | `next` | Core Java fundamentals |
+
+Topics:
+
+```text
+syntax and types
+→ control flow
+→ methods
+→ classes and objects
+→ inheritance and interfaces
+→ collections
+→ exceptions
+```
+
+Java remains secondary to Python during the current learning phase.
 
 ---
 
@@ -489,9 +158,9 @@ readability
 Goal: understand the systems underneath application code and develop knowledge
 relevant to backend and DevOps engineering.
 
-| Book | Status | Purpose |
-|---|---|---|
-| Brian Ward — *How Linux Works* | `planned` | Linux systems fundamentals |
+| Book                                                                 | Status    | Purpose                                    |
+| -------------------------------------------------------------------- | --------- | ------------------------------------------ |
+| Brian Ward — *How Linux Works*                                       | `planned` | Linux systems fundamentals                 |
 | Bryant & O'Hallaron — *Computer Systems: A Programmer's Perspective* | `planned` | Computer systems and low-level foundations |
 
 Topics:
@@ -513,10 +182,10 @@ Linux
 Goal: understand modern software delivery, infrastructure, deployment, and
 operations.
 
-| Book | Status | Purpose |
-|---|---|---|
+| Book                                    | Status    | Purpose                                      |
+| --------------------------------------- | --------- | -------------------------------------------- |
 | Gene Kim et al. — *The Phoenix Project* | `planned` | DevOps principles and organizational context |
-| Gene Kim et al. — *The DevOps Handbook* | `planned` | Practical DevOps principles |
+| Gene Kim et al. — *The DevOps Handbook* | `planned` | Practical DevOps principles                  |
 
 Topics:
 
@@ -536,8 +205,8 @@ Linux
 
 Goal: understand how production systems store, process, and move data.
 
-| Book | Status | Purpose |
-|---|---|---|
+| Book                                                       | Status    | Purpose                                   |
+| ---------------------------------------------------------- | --------- | ----------------------------------------- |
 | Martin Kleppmann — *Designing Data-Intensive Applications* | `planned` | Data systems and distributed architecture |
 
 Topics:
@@ -560,64 +229,56 @@ data models
 Mathematics is developed alongside programming rather than postponed until
 programming is complete.
 
+### Mathematical Foundations
+
+Goal: strengthen the mathematical prerequisites required for calculus,
+linear algebra, probability, statistics, numerical methods, and later
+quantitative development.
+
+Topics:
+
+```text
+algebra
+→ equations
+→ functions
+→ exponents and logarithms
+→ trigonometry
+→ vectors
+→ mathematical notation
+→ proof fundamentals
+```
+
+Specific study materials may vary depending on the topic.
+
+---
+
 ### Linear Algebra
 
-| Book | Status | Purpose |
-|---|---|---|
-| Gilbert Strang — *Introduction to Linear Algebra, 6th Edition* | `planned` | Applied linear algebra foundation |
-| Friedberg et al. — *Linear Algebra, 5th Edition* | `reference` | More rigorous linear algebra |
+| Book                                                           | Status    | Purpose                           |
+| -------------------------------------------------------------- | --------- | --------------------------------- |
+| Gilbert Strang — *Introduction to Linear Algebra, 6th Edition* | `reading` | Applied linear algebra foundation |
+| Friedberg et al. — *Linear Algebra, 5th Edition*               | `reference` | More rigorous linear algebra    |
 
 Topics:
 
 ```text
 vectors
 → matrices
+→ systems of linear equations
 → linear transformations
 → vector spaces
 → eigenvalues
 → eigenvectors
 ```
 
-### Probability
-
-| Book | Status | Purpose |
-|---|---|---|
-| Sheldon Ross — *A First Course in Probability, 10th Edition* | `planned` | Probability foundation |
-
-Topics:
-
-```text
-probability
-→ conditional probability
-→ random variables
-→ distributions
-→ expectation
-→ variance
-```
-
-### Statistics
-
-| Book | Status | Purpose |
-|---|---|---|
-| Nathan Taback — *Design and Analysis of Experiments and Observational Studies Using R* | `planned` | Statistical modelling and experimental analysis |
-| Ronald Fisher — *The Design of Experiments* | `reference` | Historical and theoretical foundation of experimental design |
-
-Topics:
-
-```text
-descriptive statistics
-→ inference
-→ regression
-→ experimental design
-→ statistical modelling
-```
+---
 
 ### Calculus
 
-| Book | Status | Purpose |
-|---|---|---|
-| James Stewart — *Calculus, 8th Edition* | `reference` | General calculus |
-| Michael Spivak — *Calculus, 4th Edition* | `planned` | Rigorous calculus |
+| Book                                     | Status    | Purpose                      |
+| ---------------------------------------- | --------- | ---------------------------- |
+| James Stewart — *Calculus, 8th Edition*  | `reading` | Primary calculus foundation  |
+| Michael Spivak — *Calculus, 4th Edition* | `planned` | Rigorous calculus            |
 
 Topics:
 
@@ -632,14 +293,41 @@ functions
 
 ---
 
+### Probability & Statistics
+
+Probability and statistics are developed as a connected quantitative
+foundation.
+
+| Book                                                                                   | Status      | Purpose                                         |
+| -------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------- |
+| Sheldon Ross — *A First Course in Probability, 10th Edition*                           | `reading`   | Probability foundation                          |
+| Nathan Taback — *Design and Analysis of Experiments and Observational Studies Using R* | `planned`   | Statistical modelling and experimental analysis |
+| Ronald Fisher — *The Design of Experiments*                                            | `reference` | Historical and theoretical reference            |
+
+Topics:
+
+```text
+probability
+→ conditional probability
+→ random variables
+→ distributions
+→ expectation and variance
+→ statistical inference
+→ regression
+→ experimental design
+→ statistical modelling
+```
+
+---
+
 ## Data Science
 
 Goal: connect programming, statistics, and quantitative data analysis.
 
-| Book | Status | Purpose |
-|---|---|---|
-| Hadley Wickham & Garrett Grolemund — *R for Data Science* | `planned` | Data manipulation, visualization, and modelling |
-| Edward Tufte — *The Visual Display of Quantitative Information* | `reference` | Quantitative data visualization |
+| Book                                                            | Status      | Purpose                                         |
+| --------------------------------------------------------------- | ----------- | ----------------------------------------------- |
+| Hadley Wickham & Garrett Grolemund — *R for Data Science*       | `planned`   | Data manipulation, visualization, and modelling |
+| Edward Tufte — *The Visual Display of Quantitative Information* | `reference` | Quantitative data visualization                 |
 
 Topics:
 
@@ -651,6 +339,19 @@ data import
 → exploratory analysis
 → modelling
 ```
+
+---
+
+## Future Programming Development
+
+Later programming development is expected to include C++, with emphasis on
+performance-sensitive and quantitative software development.
+
+Specific learning materials will be selected when C++ becomes an active
+part of the curriculum.
+
+Java may also be developed further when relevant to projects or professional
+opportunities.
 
 ---
 
@@ -685,15 +386,22 @@ Statistics
 Quantitative Methods
 ```
 
-leading toward:
+and later:
 
 ```text
 Python
-+ algorithms
-+ software engineering
-+ mathematics
-+ statistics
-+ financial knowledge
++
+C++
++
+algorithms
++
+software engineering
++
+mathematics
++
+statistics
++
+financial knowledge
 ─────────────────────────
 Quantitative Development
 ```
@@ -702,26 +410,52 @@ Quantitative Development
 
 ## Current Priority
 
-The reading list is intentionally larger than the current study workload.
+The learning program combines a primary programming track with parallel
+mathematical and technical development.
 
-The current sequence is:
+### Primary Programming Track
 
 ```text
-1. Python Crash Course
+Python Crash Course
         ↓
-2. Practical Python projects
+Practical Python projects
         ↓
-3. Automate the Boring Stuff with Python
+Automate the Boring Stuff with Python
         ↓
-4. Grokking Algorithms
+Grokking Algorithms
         ↓
-5. Effective Python
+Effective Python
         ↓
-6. Fluent Python
+Fluent Python
 ```
 
-Mathematics can be studied in parallel, but should not displace the current
-priority of developing practical programming ability.
+### Parallel Mathematical Track
+
+```text
+Mathematical Foundations
+        +
+Linear Algebra
+        +
+Calculus
+        +
+Probability & Statistics
+```
+
+### Secondary Technical Track
+
+```text
+Java Foundations
+        +
+SQL & Databases
+```
+
+Python remains the primary technical learning priority.
+
+Mathematics is developed continuously because it forms a prerequisite for
+later numerical and quantitative development.
+
+Java and database fundamentals are studied at a lower weekly intensity and
+should not displace the primary Python learning track.
 
 Advanced books remain `planned` or `reference` until the prerequisite
 knowledge makes them useful.
