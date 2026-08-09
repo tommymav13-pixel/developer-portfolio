@@ -17,6 +17,9 @@ resources.
 | `reference` | Used primarily as a reference work |
 | `completed` | Completed |
 
+Reading status is independent from ownership status.
+A book may be owned while still marked as `planned` or `reference`.
+
 ---
 
 ## Current Learning Path
@@ -100,11 +103,11 @@ Python data model
 Goal: learn how larger software systems are designed, structured, maintained,
 tested, and improved.
 
-| Book | Status | Purpose |
-|---|---|---|
-| Robert C. Martin — *Clean Code* | `planned` | Code readability and maintainability |
-| Andrew Hunt & David Thomas — *The Pragmatic Programmer* | `planned` | Professional software development |
-| Steve McConnell — *Code Complete* | `planned` | Software construction principles |
+| Book                                                    | Status    | Purpose                              |
+| ------------------------------------------------------- | --------- | ------------------------------------ |
+| Andrew Hunt & David Thomas — *The Pragmatic Programmer* | `planned` | Professional software development    |
+| Robert C. Martin — *Clean Code*                         | `planned` | Code readability and maintainability |
+| Steve McConnell — *Code Complete*                       | `planned` | Software construction principles     |
 
 Topics:
 
@@ -159,8 +162,7 @@ operations.
 Topics:
 
 ```text
-Git
-→ Linux
+Linux
 → networking
 → CI/CD
 → containers
@@ -354,7 +356,9 @@ The current sequence is:
         ↓
 4. Grokking Algorithms
         ↓
-5. Fluent Python
+5. Effective Python
+        ↓
+6. Fluent Python
 ```
 
 Mathematics can be studied in parallel, but should not displace the current
