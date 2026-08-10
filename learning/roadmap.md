@@ -289,6 +289,27 @@ financial knowledge required to progress toward a career as a
 
 ---
 
+## Current Curriculum — Block 1
+
+Programming
+- Python — 10 h/week
+- Java — 2 h/week
+
+Mathematics
+- Mathematical Foundations — 2 h/week
+- Linear Algebra — 2 h/week
+- Calculus — 2 h/week
+- Probability & Statistics — 2 h/week
+
+Data
+- SQL & Databases — 2 h/week
+
+Additional development
+- Physics
+- English and language development
+- Project work
+
+---
 ## Roadmap Principle
 
 The roadmap defines direction, not a requirement to study every topic
