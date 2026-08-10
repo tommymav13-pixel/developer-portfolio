@@ -19,14 +19,16 @@ direction develop.
 
 Current focus:
 
-- Python fundamentals
-- Problem solving
-- Writing readable code
-- Small programming exercises
+- Python fundamentals;
+- problem solving;
+- writing readable code;
+- small programming exercises;
+- introductory Java.
 
-Primary material:
+Primary materials:
 
-- *Python Crash Course, 3rd Edition*
+- *Python Crash Course, 3rd Edition*;
+- *Head First Java, 3rd Edition*.
 
 ### Development Tools
 
@@ -85,14 +87,14 @@ Develop foundations in:
 
 ### Databases
 
-Develop foundational knowledge of:
+Current focus:
 
-- SQL;
+- SQL fundamentals;
 - relational databases;
-- data modelling;
-- queries;
-- joins;
-- database integration with applications.
+- MySQL.
+
+SQL and database concepts are being developed alongside programming
+fundamentals.
 
 ### Java
 
@@ -289,25 +291,59 @@ financial knowledge required to progress toward a career as a
 
 ---
 
-## Current Curriculum — Block 1
+## Current Technical Curriculum — Block 1
 
-Programming
-- Python — 10 h/week
+My current study program uses a structured weekly curriculum with Python
+as the primary technical subject.
+
+### Programming
+
+- Python — approximately 10 h/week
 - Java — 2 h/week
 
-Mathematics
+### Mathematics
+
 - Mathematical Foundations — 2 h/week
 - Linear Algebra — 2 h/week
 - Calculus — 2 h/week
 - Probability & Statistics — 2 h/week
 
-Data
+### Data
+
 - SQL & Databases — 2 h/week
 
-Additional development
+### Supporting Development
+
 - Physics
-- English and language development
-- Project work
+- Technical and academic writing
+- Project and portfolio work
+
+The curriculum is organized in four-week blocks. At the end of each block,
+the workload, progress, and subject distribution are reviewed.
+
+Computer Science and Algorithms & Data Structures are planned for
+introduction as the programming foundation develops.
+
+
+```text
+Current foundations
+        ↓
+Programming + Mathematics + Databases
+        ↓
+Algorithms & Data Structures
+Computer Systems
+Software Engineering
+        ↓
+Linux / Networking / DevOps
+Numerical Methods
+        ↓
+Financial Mathematics
+Time Series
+Optimization
+Market Microstructure
+        ↓
+Quantitative Development
+```
 
 ---
 ## Roadmap Principle
