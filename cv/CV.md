@@ -2,173 +2,344 @@
 
 > Last updated: August 2026
 
----
+## Tommy Michael Angelo
 
-# Tommy Michael Angelo
+**Career transition:** Science Education → Software Development  
+**Long-term direction:** Quantitative Development
 
-**Career transition:** Science Teacher → Software Engineer
+Analytical science professional with approximately ten years of experience
+in secondary education, currently transitioning into software development.
 
-Analytical professional with 10 years of experience in secondary science 
-education, currently transitioning into software engineering. 
-Passionate about solving complex problems, continuous learning, and building 
-structured software solutions.
-
----
-
-# Profile
-
-I have spent the past decade teaching biology, chemistry, and physics while 
-developing strong analytical, communication, and problem-solving skills.
-
-My current focus is software engineering. Through structured self-study, I am 
-building a solid technical foundation in Python, Git, Linux, algorithms, and 
-software development. I actively document my learning process and projects on 
-GitHub as part of my professional portfolio.
+My background combines scientific reasoning, quantitative analysis,
+communication, and structured problem solving. I am developing practical
+software engineering skills through structured self-study, programming
+exercises, independent projects, and technical documentation.
 
 ---
 
-# Career Objective
+## Profile
 
-## Short-term
+For approximately ten years, I worked in secondary education teaching
+biology, chemistry, and physics across different educational levels.
 
-- Junior Software Developer
-- DevOps Engineer Traineeship
+This work required analysing complex scientific concepts, translating them
+into structured models, adapting technical communication to different
+audiences, and evaluating outcomes using evidence and data.
 
-## Long-term
+I am now applying this analytical background to software development.
 
-- Quantitative Developer
+Python is currently my primary programming language. Alongside Python, I am
+developing foundations in computer science, Java, SQL and databases,
+mathematics, software engineering, and development tooling.
 
----
-
-# Technical Skills
-
-## Programming
-
-- Python (currently studying)
-
-## Version Control
-
-- Git
-- GitHub
-
-## Operating Systems
-
-- Windows
-- Linux (currently learning)
-
-## Scripting
-
-- PowerShell
-
-## Data & Statistics
-
-- SPSS
-- R
+My GitHub repositories document this transition through code, projects,
+technical documentation, and a structured learning roadmap.
 
 ---
 
-# Current Learning
+## Career Objective
 
-- Python Crash Course (3rd Edition)
-- Object-Oriented Programming
-- Git & GitHub
-- PowerShell
-- Linux
-- Algorithms & Data Structures
-- Clean Code
-- Software Development
+### Near to Medium Term
 
----
+Transition into a professional technical role where I can continue
+developing practical software engineering experience.
 
-# Education
+Relevant directions include:
 
-## HBO Biology Teacher Education
+- Junior Software Developer;
+- Software Developer traineeship;
+- DevOps traineeship or junior role;
+- related technical software roles.
 
-Completed
+### Long Term
 
-## HBO Physics Teacher Education
-
-In progress
+Develop the software engineering, computer science, mathematical, and
+quantitative foundations required to progress toward a career as a
+**Quantitative Developer**.
 
 ---
 
-# Professional Experience
+## Technical Skills
 
-## Science Teacher
+### Programming
 
-Approximately 10 years of experience teaching:
+**Python — actively developing**
 
-- Biology
-- Chemistry
-- Physics
+Current experience includes:
 
-Experience includes:
+- variables and data types;
+- lists, tuples, and dictionaries;
+- conditional logic;
+- `for` and `while` loops;
+- user input;
+- functions;
+- parameters and arguments;
+- return values;
+- working with nested data structures;
+- structured problem solving.
 
-- Lesson development
-- Analytical problem solving
-- Mentoring students
-- Collaboration within multidisciplinary teams
-- Data-informed evaluation of learning outcomes
+Current study:
+
+- *Python Crash Course, 3rd Edition*;
+- completed Chapters 1–7;
+- currently studying Chapter 8 — Functions.
+
+**Java — introductory**
+
+Current experience includes:
+
+- Java syntax;
+- compilation and execution;
+- variables and types;
+- control flow;
+- basic program structure.
+
+### Version Control and Collaboration
+
+- Git;
+- GitHub;
+- repository management;
+- commits and version history;
+- branches and merges;
+- pull and push workflows;
+- fetch and stash;
+- README and project documentation.
+
+### Development Environment and Tooling
+
+- Visual Studio Code;
+- PowerShell;
+- Markdown;
+- Windows;
+- command-line development workflows.
+
+### Databases
+
+Currently developing:
+
+- SQL fundamentals;
+- relational database concepts;
+- MySQL;
+- MySQL Workbench.
+
+### Data and Statistics
+
+Previous experience includes:
+
+- R;
+- SPSS;
+- statistical analysis;
+- linear and logistic regression;
+- principal component and exploratory factor analysis;
+- reliability analysis.
+
+### Systems
+
+Linux is included in my development roadmap. Current experience is
+introductory; structured Linux study is planned as my systems and DevOps
+knowledge develops.
 
 ---
 
-# Portfolio
+## Current Technical Development
 
-Current repositories:
+My current structured learning program combines programming with mathematics
+and supporting technical subjects.
 
-- Python Crash Course
-- Developer Handbook
-- Developer Portfolio
+Primary and active areas include:
 
-Future projects will be added as they are completed.
+- Python;
+- Java fundamentals;
+- SQL and relational databases;
+- Git and GitHub;
+- PowerShell;
+- software engineering fundamentals;
+- mathematical foundations;
+- linear algebra;
+- calculus;
+- probability and statistics.
 
----
+Near-term development includes:
 
-# Languages
-
-| Language | Level |
-|----------|-------|
-| Dutch | Native |
-| English | Fluent |
-| French | Beginner |
-| Spanish | Beginner |
-| Japanese | Beginner |
-
----
-
-# Core Strengths
-
-- Analytical thinking
-- Structured problem solving
-- Scientific reasoning
-- Technical documentation
-- Continuous learning
-- Communication
-- Teamwork
+- object-oriented programming;
+- algorithms and data structures;
+- files and exceptions;
+- testing;
+- Linux and computer systems;
+- numerical computing.
 
 ---
 
-# Current Focus
+## Projects
 
-My GitHub repositories document my transition into software engineering.
+### Language Learning Application
 
-Current areas of focus include:
+Independent Python application for vocabulary practice and language learning.
 
-- Python
-- Git
-- GitHub
-- PowerShell
-- Linux
-- Algorithms
-- Software Engineering
-- DevOps
+Current development includes:
+
+- vocabulary quizzes;
+- score tracking;
+- incremental feature development.
+
+### Python Crash Course
+
+Repository containing exercises and programming challenges completed while
+studying *Python Crash Course, 3rd Edition*.
+
+The repository documents my progression through Python fundamentals while
+also developing practical Git and GitHub workflows.
+
+### Developer Handbook
+
+Personal technical knowledge base containing reusable documentation about
+development tools, Git workflows, PowerShell, conventions, repository
+organization, and development practices.
+
+### Developer Portfolio
+
+Structured GitHub portfolio documenting my technical skills, projects,
+professional background, learning roadmap, and progression toward software
+and quantitative development.
 
 ---
 
-# Links
+## Professional Experience
 
-GitHub Profile
+### Science Teacher
 
-LinkedIn *(coming soon)*
+**2016–2026**
 
-Email *tommy.mav13@gmail.com*
+Approximately ten years of experience teaching physics, chemistry, and
+biology in secondary education, including VMBO, HAVO, and VWO levels.
+
+Transferable professional experience includes:
+
+- analysing complex scientific concepts and systems;
+- translating abstract concepts into structured and understandable models;
+- developing analytical and problem-solving skills;
+- adapting technical communication to different levels of prior knowledge;
+- designing structured learning programs and materials;
+- evaluating learning outcomes using data-informed approaches;
+- independently acquiring knowledge across multiple scientific disciplines;
+- collaborating with colleagues and subject departments;
+- mentoring and supporting students.
+
+---
+
+## Education
+
+### HBO Biology Teacher Education
+
+**Completed**
+
+Professional higher education qualification in biology teaching.
+
+### HBO Physics Teacher Education
+
+**Partially completed / further completion under consideration**
+
+Academic work has included physics, mathematics, science education, and
+pedagogical development.
+
+---
+
+## Mathematical and Scientific Background
+
+My previous education and professional experience provide a foundation in:
+
+- physics;
+- biology;
+- chemistry;
+- mathematics;
+- statistics;
+- scientific reasoning;
+- quantitative analysis.
+
+Mathematics is now being developed more systematically alongside programming,
+with particular emphasis on:
+
+- mathematical foundations;
+- linear algebra;
+- calculus;
+- probability;
+- statistics.
+
+This forms part of my long-term preparation for numerical and quantitative
+software development.
+
+---
+
+## Languages
+
+| Language | Current Level |
+| -------- | ------------- |
+| Dutch    | Native        |
+| English  | Proficient    |
+| Spanish  | Beginner      |
+| French   | Beginner      |
+| Japanese | Beginner      |
+
+---
+
+## Core Strengths
+
+- analytical thinking;
+- structured problem solving;
+- scientific reasoning;
+- quantitative thinking;
+- technical communication;
+- independent learning;
+- technical documentation;
+- structured working;
+- adaptability;
+- teamwork.
+
+---
+
+## Professional Development Direction
+
+My development currently follows several parallel tracks:
+
+```text
+Programming
+├── Python
+└── Java
+
+Computer Science
+└── Algorithms & Data Structures
+
+Data
+└── SQL & Databases
+
+Mathematics
+├── Mathematical Foundations
+├── Linear Algebra
+├── Calculus
+└── Probability & Statistics
+
+Software Engineering
+├── Git & GitHub
+├── Testing
+├── Software Design
+└── Development Practices
+
+Systems
+├── Linux
+├── Networking
+└── DevOps
+```
+
+These foundations will progressively be combined with numerical computing,
+C++, financial knowledge, and quantitative methods as my development
+advances.
+
+---
+
+## Links
+
+- [GitHub Profile](https://github.com/tommymav13-pixel)
+- [Developer Portfolio](https://github.com/tommymav13-pixel/developer-portfolio)
+- [Developer Handbook](https://github.com/tommymav13-pixel/developer-handbook)
+- [Python Crash Course](https://github.com/tommymav13-pixel/python-crash-course-3e)
+- LinkedIn — to be added
